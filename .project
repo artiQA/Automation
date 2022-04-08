@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>POM</name>
+=======
+	<name>TestMaven</name>
+>>>>>>> 37bdc07e42084a35bf758d2a5d66720a51a74c01
 	<comment></comment>
 	<projects>
 	</projects>

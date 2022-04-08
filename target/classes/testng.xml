@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<<<<<<< HEAD
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Suite">
 <listeners>
@@ -17,4 +18,19 @@
  </classes>	
 		
   </test> <!-- Test -->
+=======
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="We-Care Suite">
+
+	<test name="We-Care">
+	
+		<classes>
+			<class name="TestDiv" /> 
+	
+			<class name="TestSum" /> 
+		</classes>	
+		
+	</test> 
+	
+>>>>>>> 37bdc07e42084a35bf758d2a5d66720a51a74c01
 </suite> <!-- Suite -->
