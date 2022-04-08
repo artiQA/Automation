@@ -57,7 +57,7 @@ public class TestBase {
 		else if(browserName.equalsIgnoreCase("firefox")) {
 			System.setProperty("webdriver.gecko.driver","user.dir"+"Drivers/geckodriver");
 			driver = new ChromeDriver();
-			
+			System.out.println("FireFox");
 		}
 		
 		driver.manage().window().maximize();
